@@ -1,0 +1,9 @@
+C:\Users\dshochat.COMMVAULT-NJ\source\repos\PluginDemo\PluginDemo\bin\Debug\PluginDemo.dll
+C:\Users\dshochat.COMMVAULT-NJ\source\repos\PluginDemo\PluginDemo\bin\Debug\PluginDemo.pdb
+C:\Users\dshochat.COMMVAULT-NJ\source\repos\PluginDemo\PluginDemo\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\dshochat.COMMVAULT-NJ\source\repos\PluginDemo\PluginDemo\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\dshochat.COMMVAULT-NJ\source\repos\PluginDemo\PluginDemo\obj\Debug\PluginProject.csproj.AssemblyReference.cache
+C:\Users\dshochat.COMMVAULT-NJ\source\repos\PluginDemo\PluginDemo\obj\Debug\PluginProject.csproj.CoreCompileInputs.cache
+C:\Users\dshochat.COMMVAULT-NJ\source\repos\PluginDemo\PluginDemo\obj\Debug\PluginProject.csproj.CopyComplete
+C:\Users\dshochat.COMMVAULT-NJ\source\repos\PluginDemo\PluginDemo\obj\Debug\PluginDemo.dll
+C:\Users\dshochat.COMMVAULT-NJ\source\repos\PluginDemo\PluginDemo\obj\Debug\PluginDemo.pdb

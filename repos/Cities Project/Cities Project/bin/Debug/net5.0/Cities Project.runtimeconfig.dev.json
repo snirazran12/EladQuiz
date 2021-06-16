@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dshochat.COMMVAULT-NJ\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dshochat.COMMVAULT-NJ\\.nuget\\packages"
+    ]
+  }
+}
